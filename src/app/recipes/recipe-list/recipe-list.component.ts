@@ -14,6 +14,11 @@ export class RecipeListComponent implements OnInit {
       'Grilled Veg Sandwich.',
       'https://cdn.pixabay.com/photo/2021/05/23/22/27/sandwich-6277424_1280.png'
     ),
+    new Recipe(
+      'Sandwich',
+      'Grilled Veg Sandwich.',
+      'https://cdn.pixabay.com/photo/2021/05/23/22/27/sandwich-6277424_1280.png'
+    ),
   ];
 
   constructor() {}
